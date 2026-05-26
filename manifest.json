@@ -1,0 +1,17 @@
+{
+  "name": "Examen Prevencion Astrid Peña",
+  "short_name": "Seguridad26004956",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#0066cc",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/565/565547.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
